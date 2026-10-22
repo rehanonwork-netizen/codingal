@@ -1,0 +1,13 @@
+body{
+    background-color: #f0f4ff;
+}
+.navbar{
+    background: blue;
+}
+.navbar-brand, .nav-link{
+color: #fff;
+}
+.title{
+    color: green;
+    margin: 20px 0px 10px;
+}

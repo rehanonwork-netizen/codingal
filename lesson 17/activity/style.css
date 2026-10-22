@@ -1,0 +1,27 @@
+body{
+    position: relative;
+
+}
+#desert {
+    background-color: orange;
+
+}
+
+#forest {
+    background-color: green;
+
+}
+
+#ocean {
+    background-color: skyblue;
+
+}
+.slide-forest{
+    background-color:green ;
+}
+.slide-ocean {
+    background-color:skyblue ;
+}
+.slide-desert{
+    background-color:orange ;
+}

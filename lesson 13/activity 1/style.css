@@ -1,0 +1,19 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(207, 187, 167);
+    padding: 25px;
+
+}
+abbr{
+    color: chocolate;
+    font-weight:bold ;
+    cursor: help;
+}
+blockquote{
+    color: dimgray;
+    border-left: 3px solid chocolate;
+    padding-left: 15px;
+    text-align: center;
+    font-style: italic;
+    display: inline-block;
+}
